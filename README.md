@@ -11,7 +11,7 @@
 
 # SteveModTemplate
 
-**SteveModTemplate** is a template for creating mods for Gorilla Tag, specifically designed for the **BepInEx** and **Utilla** frameworks.
+**SteveModTemplate** is a template for creating mods for Gorilla Tag, specifically designed for the **Utilla** dependency.
 
 ## Features
 
