@@ -324,3 +324,4 @@ C:\Users\harlo\source\repos\SteveModTemplate\SteveModTemplate\src\obj\Debug\nets
 C:\Users\harlo\source\repos\SteveModTemplate\SteveModTemplate\src\obj\Debug\netstandard2.1\SteveModTemplate.csproj.CopyComplete
 C:\Users\harlo\source\repos\SteveModTemplate\SteveModTemplate\src\obj\Debug\netstandard2.1\SteveModTemplate.dll
 C:\Users\harlo\source\repos\SteveModTemplate\SteveModTemplate\src\obj\Debug\netstandard2.1\SteveModTemplate.pdb
+C:\Users\harlo\source\repos\SteveModTemplate\SteveModTemplate\src\obj\Debug\netstandard2.1\SteveModTemplate.sourcelink.json

@@ -1,4 +1,5 @@
 ﻿using BepInEx;
+using Photon.Pun;
 using SteveModTemplate.Important.Patching; // Ensure your patching scripts are in this namespace
 using System;
 using UnityEngine;
@@ -13,6 +14,7 @@ namespace SteveModTemplate
     {
         public static Plugin Instance { get; private set; } // Singleton instance for easy access
         public static bool IsEnabled { get; private set; } // Tracks if the mod is enabled
+        public static bool IsRoomModded { get; private set; } // Tracks if you are in a modded code or not.
 
         // Initializing event subscriptions
         public void Start()
@@ -56,7 +58,7 @@ namespace SteveModTemplate
         // Called once per frame, useful for updates
         public void Update()
         {
-            // Insert frame update logic here
+            IsRoomModded = PhotonNetwork.InRoom && PhotonNetwork.CurrentRoom.CustomProperties.ToString().Contains("MODDED"); // Checks if the lobby is modded.
         }
     }
 

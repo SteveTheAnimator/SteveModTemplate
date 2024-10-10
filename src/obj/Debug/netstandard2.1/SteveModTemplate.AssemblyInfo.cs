@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SteveModTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa3dee02b409ad0aca8f7cec893667494eab62b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c981fe46551077c1aacb3672ce0caa830929335")]
 [assembly: System.Reflection.AssemblyProductAttribute("SteveModTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SteveModTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
