@@ -1,0 +1,5 @@
+C:\Users\harlo\source\repos\SteveModTemplate\obj\Debug\netstandard2.0\SteveModTemplate.csproj.AssemblyReference.cache
+C:\Users\harlo\source\repos\SteveModTemplate\obj\Debug\netstandard2.0\SteveModTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harlo\source\repos\SteveModTemplate\obj\Debug\netstandard2.0\SteveModTemplate.AssemblyInfoInputs.cache
+C:\Users\harlo\source\repos\SteveModTemplate\obj\Debug\netstandard2.0\SteveModTemplate.AssemblyInfo.cs
+C:\Users\harlo\source\repos\SteveModTemplate\obj\Debug\netstandard2.0\SteveModTemplate.csproj.CoreCompileInputs.cache
