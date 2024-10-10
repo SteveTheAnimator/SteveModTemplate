@@ -26,7 +26,6 @@
 To install the **SteveModTemplate** package, run the following command in your Visual Studio terminal:
 
 ```bash
-dotnet add package SteveModTemplate --version 1.0.0
-
+dotnet new --install SteveModTemplate
 ```
 If this doesn't work create an issue!
